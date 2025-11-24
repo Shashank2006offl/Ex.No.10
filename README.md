@@ -198,13 +198,6 @@ Gemini boosts creativity in both professional and personal domains.
 - Less post-editing  
 - Stronger creative control  
 
----
-
-# **Attached Presentation Video**
-Your submitted presentation is included below:
-
-**Video File:**  
-[Click here to view the presentation](sandbox:/mnt/data/2025-11-24T18-55-13_a_floating_glowing_watermarked.mp4)
 
 ---
 
